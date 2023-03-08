@@ -3,7 +3,7 @@
 <Bikes>
 
     //------------------------------------------------------------------------
-    <Type_Of_Bike Type="Mountain Bike">
+	<Type_Of_Bike Type="Mountain Bike">
 		<Components>
 			<Brand>
 				<Shimano>
@@ -19,8 +19,8 @@
 							<Group_Sets>
 								<Model_1>Altus M2000</Model_1>
 								<Model_2>Acera M3000</Model_2>
-                                <Model_3>Alivio M3100</Model_3>
-                                <Model_4>Deore M6100,M5100,M4100</Model_4>
+								<Model_3>Alivio M3100</Model_3>
+								<Model_4>Deore M6100,M5100,M4100</Model_4>
 							</Group_Sets>			
 						</Enthusiast>
 
@@ -28,16 +28,16 @@
 							<Group_Sets>
 								<Model_1>SLX M7100</Model_1>
 								<Model_2>Deore XT M8050</Model_2>
-                                <Model_3>Deore XT DI2 M8100</Model_3>
-                                <Model_4>XTR M9050</Model_4>
-                                <Model_5>XTR DI2 M9100</Model_5>
+								<Model_3>Deore XT DI2 M8100</Model_3>
+								<Model_4>XTR M9050</Model_4>
+								<Model_5>XTR DI2 M9100</Model_5>
 							</Group_Sets>
 						</Professional>
 
 					</Category>
 				</Shimano>
 
-                <SRAM>
+				<SRAM>
 					<Category>
 
 						<Entry>
@@ -50,25 +50,25 @@
 						<Enthusiast>
 							<Group_Sets>
 								<Model_1>X5</Model_1>
-                                <Model_2>X7</Model_2>
-                                <Model_3>X9</Model_3>
-                                <Model_4>SX Eagle</Model_4>
-                                <Model_5>NX</Model_5>
-                                <Model_6>NX Eagle</Model_6>
+								<Model_2>X7</Model_2>
+								<Model_3>X9</Model_3>
+								<Model_4>SX Eagle</Model_4>
+								<Model_5>NX</Model_5>
+								<Model_6>NX Eagle</Model_6>
 							</Group_Sets>			
 						</Enthusiast>
 
 						<Professional>
 							<Group_Sets>
 								<Model_1>GX</Model_1>
-                                <Model_2>GX Eagle</Model_2>
-                                <Model_3>X1</Model_3>
-                                <Model_4>X01</Model_4>
-                                <Model_5>X01 Eagle</Model_5>
-                                <Model_6>X01 Eagle AXS</Model_6>
-                                <Model_7>XX1 </Model_7>
-                                <Model_8>XX1 Eagle</Model_8>
-                                <Model_9>XX1 Eagle AXS</Model_9>
+								<Model_2>GX Eagle</Model_2>
+								<Model_3>X1</Model_3>
+								<Model_4>X01</Model_4>
+								<Model_5>X01 Eagle</Model_5>
+								<Model_6>X01 Eagle AXS</Model_6>
+								<Model_7>XX1 </Model_7>
+								<Model_8>XX1 Eagle</Model_8>
+								<Model_9>XX1 Eagle AXS</Model_9>
 							</Group_Sets>
 						</Professional>
 
@@ -78,9 +78,9 @@
 		</Components>
 	</Type_Of_Bike>
 
-    //------------------------------------------------------------------------
+//------------------------------------------------------------------------
 
-    <Type_Of_Bike Type="Road Bike">
+	<Type_Of_Bike Type="Road Bike">
 		<Components>
 			<Brand>
 				<Shimano>
@@ -89,17 +89,17 @@
 						<Entry>
 							<Group_Sets>
 								<Model_1>Claris R2000</Model_1>
-                                <Model_2>Sora R3000</Model_2>
-                                <Model_3>Tiagra 4700</Model_3>
+								<Model_2>Sora R3000</Model_2>
+								<Model_3>Tiagra 4700</Model_3>
 							</Group_Sets>
 						</Entry>
 
 						<Enthusiast>
 							<Group_Sets>
 								<Model_1>105 R7000</Model_1>
-                                <Model_1>105 DI2 R7150</Model_1>
+								<Model_1>105 DI2 R7150</Model_1>
 								<Model_2>Ultegra R8000</Model_2>
-                                <Model_3>Ultegra DI2 R8100</Model_3>
+								<Model_3>Ultegra DI2 R8100</Model_3>
 							</Group_Sets>			
 						</Enthusiast>
 
@@ -113,7 +113,7 @@
 					</Category>
 				</Shimano>
 
-                <SRAM>
+				<SRAM>
 					<Category>
 
 						<Entry>
@@ -123,22 +123,22 @@
 							</Group_Sets>
 						</Entry>
 
-						<Enthusiast>
-							<Group_Sets>
-								<Model_1>Rival</Model_1>
-                                <Model_2>Rival eTap AXS</Model_2>
-                                <Model_3>Force</Model_3>
-                                <Model_4>Force ETap AXS</Model_4>
-							</Group_Sets>			
-						</Enthusiast>
+							<Enthusiast>
+								<Group_Sets>
+									<Model_1>Rival</Model_1>
+									<Model_2>Rival eTap AXS</Model_2>
+									<Model_3>Force</Model_3>
+									<Model_4>Force ETap AXS</Model_4>
+								</Group_Sets>			
+							</Enthusiast>
 
-						<Professional>
-							<Group_Sets>
-								<Model_1>Red</Model_1>
-                                <Model_2>Red ETap</Model_2>
-                                <Model_3>Red ETap AXS</Model_3>
-							</Group_Sets>
-						</Professional>
+							<Professional>
+								<Group_Sets>
+									<Model_1>Red</Model_1>
+									<Model_2>Red ETap</Model_2>
+									<Model_3>Red ETap AXS</Model_3>
+								</Group_Sets>
+							</Professional>
 
 					</Category>
 				</SRAM>		
@@ -146,9 +146,9 @@
 		</Components>
 	</Type_Of_Bike>
 
-    //------------------------------------------------------------------------
+//------------------------------------------------------------------------
 
-     <Type_Of_Bike Type="Downhill Bike">
+	<Type_Of_Bike Type="Downhill Bike">
 		<Components>
 			<Brand>
 				<Shimano>
@@ -169,13 +169,13 @@
 					</Category>
 				</Shimano>
 
-                <SRAM>
+				<SRAM>
 					<Category>
 
 						<Enthusiast>
 							<Group_Sets>
 								<Model_1>GX DH</Model_1>
-                                <Model_2>X01 DH</Model_2> 
+								<Model_2>X01 DH</Model_2> 
 							</Group_Sets>			
 						</Enthusiast>
 
@@ -191,43 +191,43 @@
 		</Components>
 	</Type_Of_Bike>
 
-    //------------------------------------------------------------------------
+//------------------------------------------------------------------------
 
-    <Type_Of_Bike Type="Gravel Bike">
+	<Type_Of_Bike Type="Gravel Bike">
 		<Components>
 			<Brand>
 				<Shimano>
 					<Category>
 
-                        <Entry>
+						<Entry>
 							<Group_Sets>
 								<Model_1>GRX 400</Model_1>
 							</Group_Sets>
 						</Entry>
 
-						<Enthusiast>
-							<Group_Sets>
-								<Model_1>GRX RX600</Model_1>
-                                <Model_1>GRX RX810</Model_1>
-							</Group_Sets>			
-						</Enthusiast>
+							<Enthusiast>
+								<Group_Sets>
+									<Model_1>GRX RX600</Model_1>
+									<Model_1>GRX RX810</Model_1>
+								</Group_Sets>			
+							</Enthusiast>
 
-						<Professional>
-							<Group_Sets>
-								<Model_1>GRX RX815</Model_1>	
-							</Group_Sets>
-						</Professional>
+							<Professional>
+								<Group_Sets>
+									<Model_1>GRX RX815</Model_1>	
+								</Group_Sets>
+							</Professional>
 
 					</Category>
 				</Shimano>
 
-                <SRAM>
+				<SRAM>
 					<Category>
 
 						<Enthusiast>
 							<Group_Sets>
 								<Model_1>Rival eTap AXS XPLR</Model_1>
-                                <Model_2>Force eTap AXS XPLR</Model_2> 
+								<Model_2>Force eTap AXS XPLR</Model_2> 
 							</Group_Sets>			
 						</Enthusiast>
 
@@ -243,9 +243,9 @@
 		</Components>
 	</Type_Of_Bike>
 
-    //------------------------------------------------------------------------
+//------------------------------------------------------------------------
 
-    <Type_Of_Bike Type="TimeTrial Bike">
+	<Type_Of_Bike Type="TimeTrial Bike">
 		<Components>
 			<Brand>
 				<Shimano>
@@ -254,7 +254,7 @@
 						<Enthusiast>
 							<Group_Sets>
 								<Model_1>105 DI2 R7150</Model_1>
-                                <Model_1>Ultegra DI2 R8100</Model_1>
+								<Model_1>Ultegra DI2 R8100</Model_1>
 							</Group_Sets>			
 						</Enthusiast>
 
@@ -267,19 +267,19 @@
 					</Category>
 				</Shimano>
 
-                <SRAM>
+				<SRAM>
 					<Category>
 
 						<Enthusiast>
 							<Group_Sets>
 								<Model_1>Rival eTap AXS</Model_1>
-                                <Model_2>Force eTap AXS </Model_2> 
+								<Model_2>Force eTap AXS </Model_2> 
 							</Group_Sets>			
 						</Enthusiast>
 
 						<Professional>
 							<Group_Sets>	
-                                <Model_2>Red ETap AXS</Model_2>
+								<Model_2>Red ETap AXS</Model_2>
 							</Group_Sets>
 						</Professional>
 
